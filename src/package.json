@@ -1,0 +1,19 @@
+{
+  "name": "micro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server-debug.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RahulTambare7/micro"
+  },
+  "keywords": [
+    "micro"
+  ],
+  "author": "rahul",
+  "license": "ISC"
+}
